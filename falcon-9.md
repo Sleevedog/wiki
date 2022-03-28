@@ -10,6 +10,7 @@ Source: [SpaceX on Flickr](https://www.spacex.com/launches/transporter-3-mission
 ### Overview
 
 Stats
+
 | HEIGHT          | DIAMETER      | MASS                  |
 | :-------------: | :-----------: | :-------------------: | 
 | 70 m / 229.6 ft | 3.7 m / 12 ft | 22,800 kg / 50,265 lb |
@@ -17,6 +18,7 @@ Stats
 Source: [SpaceX](https://www.spacex.com/vehicles/falcon-9/)
 
 Payload Capacities
+
 | PAYLOAD TO LEO        | PAYLOAD TO GTO        | PAYLOAD TO MARS      |
 | :-------------------: | :-------------------: | :------------------: |
 | 22,800 kg / 50,265 lb | 8,300 kg / 18,300 lb  | 4,020 kg / 8,860 lb  |
